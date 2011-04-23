@@ -1,0 +1,81 @@
+﻿body
+{
+     /* background-color:#8F99B5;  */
+       background-image: url(../images/gradient.png); 
+     background-repeat: repeat-x; 
+     min-width: 500px;
+     text-align: center;
+     
+}
+
+h1 
+{
+    color: White;
+    font-family: Helvetica, Verdana;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+}
+ 
+p
+{
+    color: White;
+    font-family: helvetica, verdana;
+    padding-left: 20px;
+}
+
+#summary
+{
+    color: White;
+    font-family: helvetica, verdana;
+    font-size: small;
+    padding-left: 20px;
+}
+
+div.navigation
+{
+    color: White;
+    font-family: helvetica, verdana;
+    padding-left: 20px;
+}
+
+a:link {color:#FFD147;}    /* unvisited link */
+a:visited {color:#FFA293;} /* visited link */
+a:hover {color:#FF00FF;}   /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+
+div.img
+{
+  float: right;
+  /* top: 10px; */
+  left: 500px;
+  padding-right: 20px;
+}
+
+div.footer {
+   position:absolute;
+   bottom:0;
+   left :0px;
+   width:100%;
+   height: 30px;   /* Height of the footer */
+   background:#303030;
+   font-size: small;
+   font-family: Arial;
+   font-style: italic;
+   text-align: center;
+   
+}
+
+.wrapper 
+{
+     background-image: url(../images/gradient.png); 
+     background-repeat: repeat-x; 
+     margin:0;
+     /* padding:0;
+     height:100%; */
+      text-align: left;
+      width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+}
