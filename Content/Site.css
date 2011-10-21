@@ -338,3 +338,8 @@ div#title
 {
     width: 6em;
 }
+
+#mylike 
+{
+	font-familly:verdana; color:Red; background-color:#b0c4de;
+}

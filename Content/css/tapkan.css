@@ -79,3 +79,11 @@ div.footer {
       margin-left: auto;
       margin-right: auto;
 }
+
+.mylike 
+{
+	float: right;
+    display: inline; 
+    margin-left: 0px; 
+    margin-right: 360px;
+}
